@@ -1,0 +1,11 @@
+{
+  "name": "leoni-cp31-hub",
+  "version": "1.0.0",
+  "description": "LEONI CP3.1 Department Intelligence Hub",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "engines": {
+    "node": "24.x"
+  }
+}
